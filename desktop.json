@@ -158,5 +158,15 @@
 		"OS": "10.14",
 		"Author": "崔仪洁",
 		"Link": "https://github.com/cc976655/MyBlackAppleEFI"
+	},
+		{
+		"Motherboard": "华硕（ASUS）TUF B360M-PLUS GAMING S",
+		"CPU": "i5-9600K",
+		"GPU": "UHD Graphics 630",
+		"Audio": "Realtek ALC887",
+		"Network": "Intel I219-V",
+		"OS": "10.14.5",
+		"Author": "ohmewho",
+		"Link": "https://github.com/cc976655/MyBlackAppleEFI"
 	}
 ]
